@@ -1,0 +1,9 @@
+name: twitter_analysis
+account: luislundquist
+server: shinyapps.io
+appId: 94002
+bundleId: 417800
+url: https://luislundquist.shinyapps.io/twitter_analysis/
+when: 1460493850.08435
+asMultiple: FALSE
+asStatic: FALSE
